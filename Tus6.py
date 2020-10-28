@@ -1,0 +1,1 @@
+print("supriyo is a \n good boy \t") #escape sequence
